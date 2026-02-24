@@ -5814,6 +5814,7 @@ Standard_NC40ads_H100_v5,H100,1,40.0,320,H100,6.98,6.98,eastus,V2
 Standard_NC40ads_H100_v5,H100,1,40.0,320,H100,6.98,6.98,eastus2,V2
 Standard_NC40ads_H100_v5,H100,1,40.0,320,H100,8.38,8.38,southcentralus,V2
 Standard_NC40ads_H100_v5,H100,1,40.0,320,H100,6.98,6.98,westus3,V2
+Standard_NC40ads_H100_v5,H100,1,40.0,320,H100,6.98,6.98,centralus,V2
 Standard_NC48ads_A100_v4,A100-80GB,2,48.0,440,A100-80GB,8.301,0.91311,centralus,V2
 Standard_NC48ads_A100_v4,A100-80GB,2,48.0,440,A100-80GB,7.346,0.888866,eastus,V2
 Standard_NC48ads_A100_v4,A100-80GB,2,48.0,440,A100-80GB,7.346,0.95498,eastus2,V2
@@ -5852,6 +5853,7 @@ Standard_NC80adis_H100_v5,H100,2,80.0,640,H100,13.96,13.96,eastus,V2
 Standard_NC80adis_H100_v5,H100,2,80.0,640,H100,13.96,13.96,eastus2,V2
 Standard_NC80adis_H100_v5,H100,2,80.0,640,H100,16.76,16.76,southcentralus,V2
 Standard_NC80adis_H100_v5,H100,2,80.0,640,H100,13.96,13.96,westus3,V2
+Standard_NC80adis_H100_v5,H100,2,80.0,640,H100,13.96,13.96,centralus,V2
 Standard_NC8ads_A10_v4,,,8.0,100,,,,eastus,"V1,V2"
 Standard_NC8ads_A10_v4,,,8.0,100,,1.1,0.275,westus3,"V1,V2"
 Standard_NC8as_T4_v3,T4,1,8.0,56,T4,0.849,0.09339,centralus,"V1,V2"
@@ -5968,5 +5970,3 @@ Standard_NV8as_v4,Radeon MI25,1,8.0,28,Radeon MI25,0.466,0.05126,westus2,"V1,V2"
 Standard_NV8as_v4,Radeon MI25,1,8.0,28,Radeon MI25,0.466,0.05126,westus3,"V1,V2"
 Standard_PB6s,,,6.0,112,,0.83,0.0913,eastus,"V1,V2"
 Standard_PB6s,,,6.0,112,,0.83,0.0913,westus2,"V1,V2"
-Standard_NC40ads_H100_v5,H100,1,40.0,320,H100,6.98,6.98,centralus,V2
-Standard_NC80adis_H100_v5,H100,2,80.0,640,H100,13.96,13.96,centralus,V2
