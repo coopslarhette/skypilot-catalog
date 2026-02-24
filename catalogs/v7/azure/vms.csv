@@ -5968,3 +5968,5 @@ Standard_NV8as_v4,Radeon MI25,1,8.0,28,Radeon MI25,0.466,0.05126,westus2,"V1,V2"
 Standard_NV8as_v4,Radeon MI25,1,8.0,28,Radeon MI25,0.466,0.05126,westus3,"V1,V2"
 Standard_PB6s,,,6.0,112,,0.83,0.0913,eastus,"V1,V2"
 Standard_PB6s,,,6.0,112,,0.83,0.0913,westus2,"V1,V2"
+Standard_NC40ads_H100_v5,H100,1,40.0,320,H100,6.98,6.98,centralus,V2
+Standard_NC80adis_H100_v5,H100,2,80.0,640,H100,13.96,13.96,centralus,V2
